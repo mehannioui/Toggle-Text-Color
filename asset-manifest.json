@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Toggle-Text-Color/static/css/main.41b5a052.css",
+    "main.js": "/Toggle-Text-Color/static/js/main.a4c9c5d3.js",
+    "index.html": "/Toggle-Text-Color/index.html",
+    "main.41b5a052.css.map": "/Toggle-Text-Color/static/css/main.41b5a052.css.map",
+    "main.a4c9c5d3.js.map": "/Toggle-Text-Color/static/js/main.a4c9c5d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41b5a052.css",
+    "static/js/main.a4c9c5d3.js"
+  ]
+}
